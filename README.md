@@ -3,7 +3,8 @@
 
 
 ## getcoordinate.py - 取得點座標
-選取的點p : 
+選取的點p :
+
 ![image](https://user-images.githubusercontent.com/51444652/141680336-a0d54784-ed31-4cb5-8d9f-2ef66945bd90.png)
 
 ## 目標位置p_prime : [65, 95, 80], [90, 90, 120], [1, 1, 1]  
